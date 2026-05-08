@@ -34,8 +34,18 @@
             "size": 0
         }
     ],
-    "update_log": {
-        "en": "## Z-Launcher 1.4.0\n\n- Customizable launcher home page using Markdown\n- Per-version log storage\n- Share and view logs from version overview\n- Updated China mirror API domain\n- Fixed LabyMod 3 and similar clients failing to launch\n- Fixed Angelica mod failing to launch\n- Fixed fullscreen mode not working on some devices\n- Fixed various crashes and bugs\n- Based on Zalith Launcher 2 v2.4.3",
-        "zh_cn": "## Z-Launcher 1.4.0\n\n- 可使用 Markdown 自定义启动器主页\n- 按版本分别存储日志\n- 可从版本概览分享和查看日志\n- 更新中国镜像 API 域名\n- 修复 LabyMod 3 等客户端无法启动的问题\n- 修复 Angelica 模组无法启动的问题\n- 修复部分设备全屏模式无效的问题\n- 修复多项崩溃和错误\n- 基于 Zalith Launcher 2 v2.4.3"
-    }
+    "default_body": {
+        "language": "en",
+        "markdown": "## Z-Launcher 1.4.0\n\n- Customizable launcher home page using Markdown\n- Per-version log storage\n- Share and view logs from version overview\n- Updated China mirror API domain\n- Fixed LabyMod 3 and similar clients failing to launch\n- Fixed Angelica mod failing to launch\n- Fixed fullscreen mode not working on some devices\n- Fixed various crashes and bugs\n- Based on Zalith Launcher 2 v2.4.3"
+    },
+    "bodies": [
+        {
+            "language": "en",
+            "markdown": "## Z-Launcher 1.4.0\n\n- Customizable launcher home page using Markdown\n- Per-version log storage\n- Share and view logs from version overview\n- Updated China mirror API domain\n- Fixed LabyMod 3 and similar clients failing to launch\n- Fixed Angelica mod failing to launch\n- Fixed fullscreen mode not working on some devices\n- Fixed various crashes and bugs\n- Based on Zalith Launcher 2 v2.4.3"
+        },
+        {
+            "language": "zh",
+            "markdown": "## Z-Launcher 1.4.0\n\n- 可使用 Markdown 自定义启动器主页\n- 按版本分别存储日志\n- 可从版本概览分享和查看日志\n- 更新中国镜像 API 域名\n- 修复 LabyMod 3 等客户端无法启动的问题\n- 修复 Angelica 模组无法启动的问题\n- 修复部分设备全屏模式无效的问题\n- 修复多项崩溃和错误\n- 基于 Zalith Launcher 2 v2.4.3"
+        }
+    ]
 }
